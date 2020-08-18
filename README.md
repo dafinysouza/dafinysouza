@@ -2,10 +2,9 @@
 
 Uma desenvolvedora Front-End apaixonada por tecnologia e arte.
 
-[![CodePen Badge](https://img.shields.io/static/v1?label=CodePen&message=@dafinysouza&color=dimgrey&labelColor=47cf73&logo=codepen&logoColor=white)](https://codepen.io/dafinysouza)
-[![Twitter Badge](https://img.shields.io/static/v1?label=Twitter&message=@dafinysouza&color=dimgrey&labelColor=1da1f2&logo=twitter&logoColor=white)](https://twitter.com/dafinysouza)
-[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=@dafinysouza&color=dimgrey&labelColor=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafinysouza)
-
+[![CodePen: dafinysouza](https://img.shields.io/badge/-dafinysouza-2c303a?style=flat&logo=codepen&logoColor=snow)](https://codepen.io/dafinysouza)
+[![Twiiter: dafinysouza](https://img.shields.io/badge/-dafinysouza-1da1f2?style=flat&logo=twitter&logoColor=snow)](https://twitter.com/dafinysouza)
+[![Linkedin: dafinysouza](https://img.shields.io/badge/-Dafiny%20Souza-0077b5?style=flat&logo=Linkedin&logoColor=snow)](https://www.linkedin.com/in/dafinysouza/)
 
 
 <!--
