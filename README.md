@@ -1,4 +1,6 @@
-### Hi guys! 🖖
+### Fala galera, sou a Dafiny Souza! 🖖
+
+Uma desenvolvedora Front-End apaixonada por tecnologia e arte.
 
 <!--
 **dafinysouza/dafinysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
