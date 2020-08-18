@@ -1,6 +1,6 @@
 ### Fala galera, sou a Dafiny Souza! 🖖
 
-Uma desenvolvedora Front-End apaixonada por tecnologia e arte.
+Desenvolvedora Front-End apaixonada por tecnologia e arte.
 
 [![CodePen: dafinysouza](https://img.shields.io/badge/-dafinysouza-2c303a?style=flat&logo=codepen&logoColor=snow)](https://codepen.io/dafinysouza)
 [![Twiiter: dafinysouza](https://img.shields.io/badge/-dafinysouza-1da1f2?style=flat&logo=twitter&logoColor=snow)](https://twitter.com/dafinysouza)
