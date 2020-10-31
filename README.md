@@ -1,4 +1,4 @@
-### Fala galera, sou a Dafiny Souza! 🖖
+### Oioi, eu sou a Dafiny Souza! 🖖
 
 Desenvolvedora Front-End apaixonada por tecnologia e arte.
 
