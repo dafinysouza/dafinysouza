@@ -1,7 +1,5 @@
 ### Oioi, eu sou a Dafiny Souza! 🖖
 
-Desenvolvedora Front-End apaixonada por tecnologia e arte.
-
 [![CodePen: dafinysouza](https://img.shields.io/badge/-dafinysouza-2c303a?style=flat&logo=codepen&logoColor=snow)](https://codepen.io/dafinysouza)
 [![Twiiter: dafinysouza](https://img.shields.io/badge/-dafinysouza-1da1f2?style=flat&logo=twitter&logoColor=snow)](https://twitter.com/dafinysouza)
 [![Linkedin: dafinysouza](https://img.shields.io/badge/-Dafiny%20Souza-0077b5?style=flat&logo=Linkedin&logoColor=snow)](https://www.linkedin.com/in/dafinysouza/)
