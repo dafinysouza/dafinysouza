@@ -1,21 +1,16 @@
-### Oioi, eu sou a Dafiny Souza! 🖖
+# Olá, sou a Dafiny Souza! :cactus:
 
-[![CodePen: dafinysouza](https://img.shields.io/badge/-dafinysouza-2c303a?style=flat&logo=codepen&logoColor=snow)](https://codepen.io/dafinysouza)
-[![Twiiter: dafinysouza](https://img.shields.io/badge/-dafinysouza-1da1f2?style=flat&logo=twitter&logoColor=snow)](https://twitter.com/dafinysouza)
-[![Linkedin: dafinysouza](https://img.shields.io/badge/-Dafiny%20Souza-0077b5?style=flat&logo=Linkedin&logoColor=snow)](https://www.linkedin.com/in/dafinysouza/)
+#### Desenvolvedora Front-End web e mobile
 
+Apaixonada por "dar vida" a parte visual das aplicações, experiência do usuário e artes. Atuo na área de tecnologia desde 2017, com foco no desenvolvimento front-end. 
 
-<!--
-**dafinysouza/dafinysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Possuo formação Técnica em Informática e atualmente estou cursando Sistemas para Internet.
 
-Here are some ideas to get you started:
+Gosto de pintar/desenhar e tocar guitarra nas horas vagas. :art: :guitar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafinysouza/)
+[![CodePen](https://img.shields.io/badge/CodePen-2c303a?style=flat-square&logo=codepen&logoColor=snow)](https://codepen.io/dafinysouza)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?&style=flat-square&logo=Itch.io&logoColor=white)](https://dafinysouza.itch.io/)
+[!["Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@dafinysouza)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dafinysouza)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?&style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/dafinysouza)
