@@ -1,12 +1,8 @@
-# Olá, sou a Dafiny Souza! :cactus:
+### Oioi, sou a Dafiny Souza! 🌵
 
-#### Desenvolvedora Front-End web e mobile
+#### Desenvolvedora Front-End na Compasso Uol
 
-Apaixonada por "dar vida" a parte visual das aplicações, experiência do usuário e artes. Atuo na área de tecnologia desde 2017, com foco no desenvolvimento front-end. 
-
-Possuo formação Técnica em Informática e atualmente estou cursando Sistemas para Internet.
-
-Gosto de pintar/desenhar e tocar guitarra nas horas vagas. :art: :guitar:
+Trabalho na área de tecnologia desde 2017, com foco no desenvolvimento front-end. Sou apaixonada por dar vida a parte visual das aplicações, sempre visando a melhor experiência para o usuário. Nas horas vagas gosto de pintar/desenhar, ler e jogar. 🎨 📚 🎮
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dafinysouza/)
 [![CodePen](https://img.shields.io/badge/CodePen-2c303a?style=flat-square&logo=codepen&logoColor=snow)](https://codepen.io/dafinysouza)
