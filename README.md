@@ -1,6 +1,6 @@
 ### Oioi, sou a Dafiny Souza! 🌵
 
-#### Desenvolvedora Front-End na Compasso Uol
+#### Desenvolvedora Front-End na Compass.uol
 
 Trabalho na área de tecnologia desde 2017, com foco no desenvolvimento front-end. Sou apaixonada por dar vida a parte visual das aplicações, sempre visando a melhor experiência para o usuário. Nas horas vagas gosto de pintar/desenhar, ler e jogar. 🎨 📚 🎮
 
